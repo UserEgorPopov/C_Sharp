@@ -1,0 +1,15 @@
+F:\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.exe
+F:\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.deps.json
+F:\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.runtimeconfig.json
+F:\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.dll
+F:\C#\Seminar_1\bin\Debug\net6.0\Seminar_1.pdb
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.csproj.AssemblyReference.cache
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.AssemblyInfoInputs.cache
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.AssemblyInfo.cs
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.csproj.CoreCompileInputs.cache
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.dll
+F:\C#\Seminar_1\obj\Debug\net6.0\refint\Seminar_1.dll
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.pdb
+F:\C#\Seminar_1\obj\Debug\net6.0\Seminar_1.genruntimeconfig.cache
+F:\C#\Seminar_1\obj\Debug\net6.0\ref\Seminar_1.dll
