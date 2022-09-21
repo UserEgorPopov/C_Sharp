@@ -118,3 +118,23 @@
 // PrintArray(array);
 
 
+
+
+
+Console.WriteLine("Введите число");
+int a = (Convert.ToInt32(Console.ReadLine()));
+Console.WriteLine($"Сумма цифр числа:", GetSum(a));
+
+int GetSum(int number)
+{
+    int b = 0;
+    while (a > 0)
+    {
+ 
+        b = b + a % 10;
+        a = a /10 ;
+ 
+    }
+    return b;
+}
+Console.WriteLine();
