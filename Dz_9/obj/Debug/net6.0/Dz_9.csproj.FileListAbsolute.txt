@@ -1,0 +1,15 @@
+F:\C#\Dz_9\bin\Debug\net6.0\Dz_9.exe
+F:\C#\Dz_9\bin\Debug\net6.0\Dz_9.deps.json
+F:\C#\Dz_9\bin\Debug\net6.0\Dz_9.runtimeconfig.json
+F:\C#\Dz_9\bin\Debug\net6.0\Dz_9.dll
+F:\C#\Dz_9\bin\Debug\net6.0\Dz_9.pdb
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.csproj.AssemblyReference.cache
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.AssemblyInfoInputs.cache
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.AssemblyInfo.cs
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.csproj.CoreCompileInputs.cache
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.dll
+F:\C#\Dz_9\obj\Debug\net6.0\refint\Dz_9.dll
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.pdb
+F:\C#\Dz_9\obj\Debug\net6.0\Dz_9.genruntimeconfig.cache
+F:\C#\Dz_9\obj\Debug\net6.0\ref\Dz_9.dll
